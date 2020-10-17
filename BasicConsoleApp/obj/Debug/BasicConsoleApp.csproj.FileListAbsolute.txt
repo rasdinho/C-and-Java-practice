@@ -1,0 +1,7 @@
+C:\Users\Azadi\source\repos\BasicConsoleApp\BasicConsoleApp\bin\Debug\BasicConsoleApp.exe.config
+C:\Users\Azadi\source\repos\BasicConsoleApp\BasicConsoleApp\bin\Debug\BasicConsoleApp.exe
+C:\Users\Azadi\source\repos\BasicConsoleApp\BasicConsoleApp\bin\Debug\BasicConsoleApp.pdb
+C:\Users\Azadi\source\repos\BasicConsoleApp\BasicConsoleApp\obj\Debug\BasicConsoleApp.csprojAssemblyReference.cache
+C:\Users\Azadi\source\repos\BasicConsoleApp\BasicConsoleApp\obj\Debug\BasicConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Azadi\source\repos\BasicConsoleApp\BasicConsoleApp\obj\Debug\BasicConsoleApp.exe
+C:\Users\Azadi\source\repos\BasicConsoleApp\BasicConsoleApp\obj\Debug\BasicConsoleApp.pdb
