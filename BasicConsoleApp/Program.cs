@@ -19,7 +19,17 @@ namespace BasicConsoleApp
             var d = false;
 
             Console.WriteLine("Your name is: " + p.Name + " and your age is: " + p.Age);
-           
+            Console.WriteLine("Your name is: " + p2.Name + " and your age is: " + p2.Age);
+
+            p.Age = 35;
+            p2.Age = 99;
+
+            Console.WriteLine("Your name is: " + p.Name + " and your age is: " + p.Age);
+            Console.WriteLine("Your name is: " + p2.Name + " and your age is: " + p2.Age);
+            Console.WriteLine(b is double);
+            Console.WriteLine((int) b is int);
+            Console.WriteLine(Math.Floor(b));
+            Console.WriteLine(Math.Ceiling(b));
         }
     }
 
