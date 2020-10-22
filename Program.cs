@@ -13,19 +13,24 @@ namespace BasicConsoleApp
         {
             Person p = new Person("Yones", 27);
             Person p2 = new Person("Azadi", 36);
+            person p3 = new Person("Bbb", 19);
             var a = "A string";
             var b = 10.5;
             var c = 5;
             var d = false;
 
+            Console.WriteLine("You are the third person Your name is: " + p3.Name + " and your age is: " + p3.Age);
             Console.WriteLine("Your name is: " + p.Name + " and your age is: " + p.Age);
             Console.WriteLine("Your name is: " + p2.Name + " and your age is: " + p2.Age);
 
             p.Age = 35;
             p2.Age = 99;
+            p3.Age = 24;
 
             Console.WriteLine("Your name is: " + p.Name + " and your age is: " + p.Age);
             Console.WriteLine("Your name is: " + p2.Name + " and your age is: " + p2.Age);
+            Console.WriteLine("You are the third person Your name is: " + p3.Name + " and your age is: " + p3.Age);
+
             Console.WriteLine(b is double);
             Console.WriteLine((int) b is int);
             Console.WriteLine(Math.Floor(b));
